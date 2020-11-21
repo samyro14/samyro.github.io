@@ -1,0 +1,45 @@
+#body
+{
+    
+    
+}
+.icon-fb
+{
+    width: 30px;
+    margin-right: 10px;
+}
+.icon-ig
+{
+    width: 30px;
+    margin-right: 5px;
+    
+}
+#pozacode
+{
+   position: relative;
+   margin-top: 5px;
+   width: 1440px;
+   height: 600px;
+   margin-left: 0px;
+   position: fixed;
+
+   
+}
+#navbar
+{
+    background-color: #fefcfc;
+background-image: linear-gradient(270deg, #fefcfc 0%, #0be6db 100%);
+position: fixed;
+margin-top:px;
+}
+.heading1
+{
+position: absolute;
+top:50%;
+margin-left: 40%;
+}
+
+.pozab
+{
+    z-index: -1;
+}
